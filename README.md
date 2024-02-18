@@ -1,2 +1,2 @@
-# CodSoft_Task-1
-This repository for internship in CODSOFT_Task-1.
+# CodSoft_Task-3
+This repository for internship in CODSOFT_Task-3.
